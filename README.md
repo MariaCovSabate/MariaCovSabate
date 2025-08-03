@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hey there! 👋
 
 <!--
 **MariaCovSabate/MariaCovSabate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Let me tell you a bit about myself! </h3>
 
 ###
 
